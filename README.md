@@ -1,5 +1,3 @@
-[![](https://replit.com/badge/github/rayhanadev/edge)](https://replit.com/badge/github/rayhanadev/edge)
-
 # Welcome to the **ally** Template!
 
 Hello there! Looking for a simple, free, and easy url shortener? Well you're in the
@@ -17,14 +15,14 @@ Wait for all the NodeJS packages to download, and then head over to the
 which you must edit in order to secure your router. If you leave this array empty
 your dashboard can be accessed by any Replit user.
 
-![](https://edge.furret.codes/f/edge-setup-1.png)
+![](https://edge.furret.codes/f/ally-setup-1.png)
 
 # Usage
 To upload a file navigate to `/~` to find the ally dashboard. From there you can
 drag and drop or select a file to upload. You will likely be prompted to authenticate
 via Replit on your first visit.
 
-![](https://edge.furret.codes/f/edge-setup-2.jpg)
+![](https://edge.furret.codes/f/ally-setup-2.png)
 
 You can also download this application as a PWA. For more information on this look up
 your browser's specific information on installing PWAs.
